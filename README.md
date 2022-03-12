@@ -11,3 +11,5 @@ Front-end & FullStack developer.
 "The way you do something is the way you do everything"
 
 Deus no comando 🙏
+
+https://raw.githubusercontent.com/MoreiraTv/MoreiraTv/output/github-contribution-grid-snake.svg
