@@ -11,9 +11,3 @@ Front-end & FullStack developer.
 "The way you do something is the way you do everything"
 
 Deus no comando 🙏
-
-- name: generate github-contribution-grid-snake.svg
-  uses: Platane/snk@master
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    svg_out_path: dist/github-contribution-grid-snake.svg
