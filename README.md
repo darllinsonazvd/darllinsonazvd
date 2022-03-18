@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Darllinson Azevedo</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_darllinson?color=red&label=%40_darllinson&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_darllinson)
+[![Twitter URL](https://img.shields.io/twitter/url?color=red&label=_darllinson&logo=instagram&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarllinson-azevedo%2F)](https://instagram.com/_darllinson)
 [![Twitter URL](https://img.shields.io/twitter/url?color=red&label=Darllinson%20Azevedo&logo=linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarllinson-azevedo%2F)](https://www.linkedin.com/in/darllinson-azevedo/)
 [![Twitter URL](https://img.shields.io/twitter/url?color=red&label=azevedo.darllinson%40gmail.com&logo=gmail&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarllinson-azevedo%2F)](mailto:azevedo.darllinson@gmail.com)
 
