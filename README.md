@@ -23,11 +23,11 @@ Deus no comando 🙏
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![snake svg](https://github.com/darllinsonazvd/darllinsonazvd/blob/output/github-contribution-grid-snake.svg)
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=darllinsonazvd&show_icons=true&theme=vision-friendly-dark" alt="darllinson's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darllinsonazvd&layout=compact&theme=vision-friendly-dark" alt="darllinson's most languages"/>
 </p>
+
+![snake svg](https://github.com/darllinsonazvd/darllinsonazvd/blob/output/github-contribution-grid-snake.svg)
