@@ -27,7 +27,7 @@ Deus no comando 🙏
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=darllinsonazvd&show_icons=true&theme=midnight-purple" alt="darllinson's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=darllinsonazvd&show_icons=true&theme=github_dark" alt="darllinson's stats"/>
 </p>
 
 ![snake svg](https://github.com/darllinsonazvd/darllinsonazvd/blob/output/github-contribution-grid-snake.svg)
