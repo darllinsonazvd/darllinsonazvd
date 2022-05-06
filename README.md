@@ -1,8 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Darllinson Azevedo</h1>
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=red&label=_darllinson&logo=instagram&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarllinson-azevedo%2F)](https://instagram.com/_darllinson)
-[![Twitter URL](https://img.shields.io/twitter/url?color=red&label=Darllinson%20Azevedo&logo=linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarllinson-azevedo%2F)](https://www.linkedin.com/in/darllinson-azevedo/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=red&label=azevedo.darllinson%40gmail.com&logo=gmail&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdarllinson-azevedo%2F)](mailto:azevedo.darllinson@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram)](https://instagram.com/_darllinson)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darllinson-azevedo/)
+[![Email](https://img.shields.io/badge/-azevedo.darllinson@gmail.com-05122A?style=flat-square&logo=gmail)](mailto:azevedo.darllinson@gmail.com)
 
 Full Stack developer.
 
@@ -17,10 +17,11 @@ Deus no comando 🙏
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
