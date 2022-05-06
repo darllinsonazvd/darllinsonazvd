@@ -20,6 +20,7 @@ Deus no comando 🙏
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat-square&logo=tailwindcss)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
