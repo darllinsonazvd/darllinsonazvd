@@ -1,4 +1,4 @@
-<img width="100%" src="https://lh5.googleusercontent.com/e2IMurFYi4j0eypcmaQ5j5Di7EjHckh8qk7b1IUTJDewWZnZNQCp8bGX7rYHG9r58KZEaxKQbrAf6ofLim8e=w1366-h625" alt="my banner">
+<img width="80%" src="https://lh5.googleusercontent.com/e2IMurFYi4j0eypcmaQ5j5Di7EjHckh8qk7b1IUTJDewWZnZNQCp8bGX7rYHG9r58KZEaxKQbrAf6ofLim8e=w1366-h625" alt="my banner">
 
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram)](https://instagram.com/_darllinson)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darllinson-azevedo/)
