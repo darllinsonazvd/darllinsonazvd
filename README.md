@@ -1,4 +1,4 @@
-<img width="100%" src="https://ibb.co/MP38726" alt="my banner">
+<img width="100%" src="https://drive.google.com/file/d/1mKvg_qxoszuS1YxbDHX_Qb9PvsAK8yDE/view?usp=sharing" alt="my banner">
 
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram)](https://instagram.com/_darllinson)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darllinson-azevedo/)
