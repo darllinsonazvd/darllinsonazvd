@@ -4,11 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darllinson-azevedo/)
 [![Email](https://img.shields.io/badge/-azevedo.darllinson@gmail.com-05122A?style=flat-square&logo=gmail)](mailto:azevedo.darllinson@gmail.com)
   
-Full Stack developer.
+- 🔭 I'm currently studing at [Unifacisa](https://www.unifacisa.edu.br/home)
 
-"The way you do something is the way you do everything"
+- 👨‍💻 All of my projects are available at [darllinsonazvd.badge](https://darllinsonazvd.github.io/dev-id-badge/)
 
-Deus no comando 🙏
+- 💬 Ask me about **JavaScript, ReactJS, React Native, TypeScript, NodeJS**
+
+**Deus no comando** 🙏
 
 ## 🛠 &nbsp;Tech Stack
 
