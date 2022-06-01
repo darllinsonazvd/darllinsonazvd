@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Darllinson Azevedo</h1>
+<h1 align="left">Hi, I'm Darllinson Azevedo</h1>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram)](https://instagram.com/_darllinson)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darllinson-azevedo/)
