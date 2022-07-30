@@ -21,6 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular)&nbsp;
+![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat-square&logo=angularjs)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat-square&logo=vite)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=tailwindcss)&nbsp;
