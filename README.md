@@ -23,7 +23,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat-square&logo=vite)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat-square&logo=tailwindcss)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=tailwindcss)&nbsp;
 ![Sass CSS](https://img.shields.io/badge/-Sass%20CSS-05122A?style=flat-square&logo=sass)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
