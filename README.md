@@ -1,8 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Darllinson Azevedo</h1>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram)](https://instagram.com/_darllinson)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darllinson-azevedo/)
-[![Email](https://img.shields.io/badge/-azevedo.darllinson@gmail.com-05122A?style=flat-square&logo=gmail)](mailto:azevedo.darllinson@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_darllinson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darllinson-azevedo/)
+[![Email](https://img.shields.io/badge/azevedo.darllinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azevedo.darllinson@gmail.com)
   
 - 🔭 I'm currently studing at [Unifacisa](https://www.unifacisa.edu.br/home)
 
@@ -14,21 +14,22 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular)&nbsp;
-![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat-square&logo=angularjs)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat-square&logo=vite)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=tailwindcss)&nbsp;
-![Sass CSS](https://img.shields.io/badge/-Sass%20CSS-05122A?style=flat-square&logo=sass)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-EA2046?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Sass CSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
