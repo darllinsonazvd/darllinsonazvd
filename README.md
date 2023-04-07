@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [darllinsonazvd.badge](https://darllinsonazvd.github.io/dev-id-badge/)
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, Angular, Node.js**
+- 💬 Ask me about **JavaScript, TypeScript, Java, ReactJS, Angular, Node.js**
 
 **Deus no comando** 🙏
 
