@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/azevedo.darllinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azevedo.darllinson@gmail.com)
 
 - 💻 I'm Software Enginner at [act digital](https://actdigital.com)
-- 💬 Ask me about **JavaScript, TypeScript, Java, React, React Native, Angular, Node.js, Flutter**
+- 💬 Ask me about **Java, React, React Native and Angular**
 
 ## 🛠 &nbsp;Tech Stack
 
