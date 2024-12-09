@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darllinson-azevedo/)
 [![Email](https://img.shields.io/badge/azevedo.darllinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azevedo.darllinson@gmail.com)
 
-- 💻 I'm Software Enginner at [act digital](https://actdigital.com)
+- 💻 I'm Software Enginner at Bradesco
 - 💬 Ask me about **Java, React and Angular**!
 
 ## 🛠 &nbsp;Tech Stack
